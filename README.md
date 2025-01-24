@@ -27,7 +27,7 @@ I'm always seeking opportunities to transform analytical insights into actionabl
 - **Key Achievements**:
   - Delivered 65.4% model accuracy, ranking in the **97.61 percentile** against a 67% benchmark.
 - **Timeline**: 2024 - Present
-- [View Repository](PLACEHOLDER_FOR_REPO_LINK)
+- [View Repository](https://github.com/Abhijeet-Real/CIBMTR)
 
 ### 2. **Import-Export Data Analysis**
 
@@ -36,23 +36,24 @@ I'm always seeking opportunities to transform analytical insights into actionabl
   - Discovered actionable trends to enhance trade efficiency.
   - Designed strategies to optimize and boost global trade growth.
 - **Timeline**: 2024
-- [View Repository](PLACEHOLDER_FOR_REPO_LINK)
+- [View Repository](https://github.com/Abhijeet055002/Term-2_Project-2)
 
-### 3. **BDMA Project** *(Currently Ongoing)*
+### 3. **McDonald's Data Management System** *(Currently Ongoing)*
 
-- **Objective**: Leveraged machine learning techniques like clustering and regression to analyze global trade data.
+- **Objective**: Designed and implemented a sophisticated data management system for McDonald's, focusing on creating an Entity-Relationship Diagram (ERD) to structure business processes efficiently.
 - **Key Contributions**:
-  - Identified trends to enhance trade efficiency.
-  - Designed actionable strategies for growth.
+  - Developed a comprehensive CRUD-based relational database to manage operational workflows seamlessly.
+  - Conducted rigorous stress testing to ensure system scalability and performance under high transactional loads.
+  - Applied data normalization techniques to enhance database integrity and query performance.
 - **Timeline**: 2024 - Present
-- [View Repository](PLACEHOLDER_FOR_REPO_LINK)
+- [View Repository](https://github.com/Abhijeet-Real/Image-Genration)
 
 ### 4. **MNIST Digit Classification** *(Currently Ongoing)*
 
 - **Objective**: Built a deep learning model to classify handwritten digits using the MNIST dataset.
 - **Tech Stack**: Python, TensorFlow, Keras.
 - **Timeline**: 2025 - Present
-- [View Repository](PLACEHOLDER_FOR_REPO_LINK)
+- [View Repository](https://github.com/Abhijeet055002/MNIST)
 
 ### 5. **Stable Diffusion Image Generation**
 
@@ -107,5 +108,3 @@ Leadership, Business Acumen, Communication.
 © Abhijeet 2025. This resume is licensed under CC BY-NC-ND 4.0.  
 You may download and share it for informational purposes only.  
 No modifications or commercial use allowed.  
-
----
