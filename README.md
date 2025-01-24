@@ -46,7 +46,7 @@ I'm always seeking opportunities to transform analytical insights into actionabl
   - Conducted rigorous stress testing to ensure system scalability and performance under high transactional loads.
   - Applied data normalization techniques to enhance database integrity and query performance.
 - **Timeline**: 2024 - Present
-- [View Repository](https://github.com/Abhijeet-Real/Image-Genration)
+
 
 ### 4. **MNIST Digit Classification** *(Currently Ongoing)*
 
@@ -63,8 +63,7 @@ I'm always seeking opportunities to transform analytical insights into actionabl
   - Customizable features like adjustable inference steps and guidance scale sliders.
   - Modular design for scalability.
 - **Timeline**: 2024
-- [View Repository](PLACEHOLDER_FOR_REPO_LINK)
-
+- [View Repository](https://github.com/Abhijeet-Real/Image-Genration)
 ---
 
 ## 🎓 Education
@@ -78,7 +77,6 @@ I'm always seeking opportunities to transform analytical insights into actionabl
 
 - **Marketing Analytics**: Enhanced analytical and strategic decision-making.
 - **Statistics for Data Science & Business Analysis**: Advanced training in statistical methodologies.
-- [View Certificates](PLACEHOLDER_FOR_CERTIFICATES_LINK)
 
 ---
 
@@ -86,9 +84,9 @@ I'm always seeking opportunities to transform analytical insights into actionabl
 
 ### **Technical Skills**
 
-- **Programming**: Python3, C++, Java, PHP.
+- **Programming**: Python, C++, Java, PHP.
 - **Data Science**: Machine Learning, EDA, Model Validation, Data Visualization.
-- **Tools**: Power BI, Tableau (beginner).
+- **Tools**: Power BI, .
 
 ### **Soft Skills**
 
