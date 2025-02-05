@@ -63,7 +63,7 @@ I'm always seeking opportunities to transform analytical insights into actionabl
   - Customizable features like adjustable inference steps and guidance scale sliders.
   - Modular design for scalability.
 - **Timeline**: 2024
-- [View Repository](https://github.com/Abhijeet-Real/Image-Genration)
+- [View Repository](https://github.com/Abhijeet-Real/Stable-Diffusion)
 ---
 
 ## 🎓 Education
