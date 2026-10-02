@@ -3,7 +3,7 @@
 # Abhijeet - Data Science & AI Enthusiast
 
 \
-📧 [Email Me](mailto:055002@fsm.ac.in) | 📞 +91 8368256883
+📧 [Email Me](mailto:055002@fsm.ac.in)
 
 ---
 
